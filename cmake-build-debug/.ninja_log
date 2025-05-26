@@ -1,0 +1,14 @@
+# ninja log v6
+5	1127	7699815768422740	CMakeFiles/lab_OOP7.dir/main.cpp.obj	a5722553c10009a5
+16	347	7699816282223832	build.ninja	4cf42388cd85e85b
+29	619	7699816283482531	CMakeFiles/lab_OOP7.dir/SkiResortFacade.cpp.obj	cb610a2ed5eb0784
+33	757	7699816283515580	CMakeFiles/lab_OOP7.dir/LoggerSingleton.cpp.obj	96eb4e7cc335e90f
+757	886	7699816290757029	lab_OOP7.exe	aabf8d09f9587782
+26	750	7699818374909839	CMakeFiles/lab_OOP7.dir/SkiResortFacade.cpp.obj	cb610a2ed5eb0784
+31	897	7699818374962799	CMakeFiles/lab_OOP7.dir/LoggerSingleton.cpp.obj	96eb4e7cc335e90f
+19	1020	7699818374846252	CMakeFiles/lab_OOP7.dir/main.cpp.obj	a5722553c10009a5
+1021	1188	7699818384860063	lab_OOP7.exe	aabf8d09f9587782
+24	631	7699819982107148	CMakeFiles/lab_OOP7.dir/SkiResortFacade.cpp.obj	cb610a2ed5eb0784
+30	752	7699819982172414	CMakeFiles/lab_OOP7.dir/LoggerSingleton.cpp.obj	96eb4e7cc335e90f
+20	807	7699819982072318	CMakeFiles/lab_OOP7.dir/main.cpp.obj	a5722553c10009a5
+807	935	7699819989943596	lab_OOP7.exe	aabf8d09f9587782
