@@ -13,7 +13,7 @@ int HotelBookingSystem::BookRoom(int roomQuality) {
         case 3: return 250;
         case 4: return 500;
         case 5: return 900;
-        default: throw std::invalid_argument("roomQuality should be in range [3;5]");
+        default: throw invalid_argument("roomQuality should be in range [3;5]");
     }
 }
 
