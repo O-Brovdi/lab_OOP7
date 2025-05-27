@@ -14,7 +14,7 @@ private:
     LoggerSingleton& operator=(const LoggerSingleton&) = delete;
 public:
     static LoggerSingleton* GetInstance();
-    void Log(const std::string& message);
+    void Log(const string& message);
 };
 
 #endif
