@@ -1,5 +1,4 @@
 #include "LoggerSingleton.h"
-#include <iostream>
 
 LoggerSingleton* LoggerSingleton::instance = nullptr;
 
